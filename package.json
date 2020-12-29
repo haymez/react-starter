@@ -1,5 +1,5 @@
 {
-  "name": "simpletech-group-pay",
+  "name": "name-of-project",
   "version": "0.1.0",
   "description": "",
   "main": "src/main.ts",
@@ -10,11 +10,10 @@
     "test": "jest"
   },
   "keywords": [
-    "simpletech",
-    "group",
-    "pay"
+    "react",
+    "starter"
   ],
-  "author": "James Miltenberger",
+  "author": "<Your Name>",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
